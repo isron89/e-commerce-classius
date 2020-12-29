@@ -1,2 +1,3 @@
 # e-commerce-classius
-classius is a website with the native php programming language
+eng : classius is a ecommerce website with the native php programming language
+ind : classius adalah website ecommerce menggunakan php native
